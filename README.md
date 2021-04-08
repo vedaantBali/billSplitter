@@ -11,6 +11,6 @@ $ android-studio .
 ```
 Then using an AVD or a real device, run the app.
 
-![App Page][https://github.com/vedaantBali/billSplitter/blob/master/Screenshot_20210408-085313.jpg]
+![App Page](https://github.com/vedaantBali/billSplitter/blob/master/Screenshot_20210408-085313.jpg)
 
 
