@@ -13,4 +13,6 @@ Then using an AVD or a real device, run the app.
 
 ![App Page](https://github.com/vedaantBali/billSplitter/blob/master/Screenshot_20210408-085313.jpg)
 
+![Example Input](https://github.com/vedaantBali/billSplitter/blob/master/Screenshot_20210408-085328.jpg)
+
 
