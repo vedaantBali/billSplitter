@@ -1,16 +1,14 @@
-# first_flutter_app
+# Bill Splitter & Tip Calculator
 
-A new Flutter application.
+This is a flutter application which helps you calculate the amount each person needs to pay, after getting the tip percentage, total bill amount, and number of persons.
 
-## Getting Started
+## Process
 
-This project is a starting point for a Flutter application.
+I used android studio to build the app. To use it, clone the repository into a directory of your choice and cd into that directory and then into the app folder.
+After this, open terminal in this directory.
+```
+$ android-studio .
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
